@@ -1,4 +1,4 @@
-# 깃헙 자동 배포 프로젝트 수정 - github-actions-auto
+# 깃헙 자동 배포 프로젝트 수정 2 - github-actions-auto
 
 ## Build Setup
 
